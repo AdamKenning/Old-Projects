@@ -1,0 +1,3 @@
+b.d.close menu
+b.d.add polygon
+b.d.remove polygon

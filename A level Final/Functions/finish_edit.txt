@@ -1,0 +1,4 @@
+b.d.finish edit
+b.d.demo reel
+b.a.add polygon.20.120.3.[13, 105, 134].[187, 182, 165]
+b.a.remove polygon.20.160.3.[13, 105, 134].[187, 182, 165]
